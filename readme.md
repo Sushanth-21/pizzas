@@ -30,7 +30,8 @@ Request - POST request
 Response - {"logout": "User logged out"}
 
 Place the saved token in authorization headers for every request.
-Ex - 
+Ex - ![image](https://user-images.githubusercontent.com/62661597/123022674-c628ac00-d3f3-11eb-860c-0f703044dd8e.png)
+
 
 4) create square pizza 
 endpoint - http://127.0.0.1:8000/pizza/square/ 
